@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C_code.c">
+    <ClCompile Include="10.13_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.13_2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
